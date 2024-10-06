@@ -35,3 +35,12 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+#completed-list{
+  display: none;
+}
+#completed-tasks{
+  display: none;
+}
+i{
+  color: green;
+}
